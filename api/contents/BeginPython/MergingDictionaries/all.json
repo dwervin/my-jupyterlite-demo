@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-29T17:15:28.878235Z",
+      "format": null,
+      "last_modified": "2022-03-29T17:14:03.513277Z",
+      "mimetype": null,
+      "name": "MergeDictionaries.ipynb",
+      "path": "BeginPython/MergingDictionaries/MergeDictionaries.ipynb",
+      "size": 2232,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-29T17:15:28.878235Z",
+  "format": "json",
+  "last_modified": "2022-03-29T17:15:28.878235Z",
+  "mimetype": null,
+  "name": "MergingDictionaries",
+  "path": "BeginPython/MergingDictionaries",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
